@@ -1,0 +1,8 @@
+dlt
+black
+isort
+beautifulsoup4
+curl_cffi
+duckdb
+pandas
+lxml
