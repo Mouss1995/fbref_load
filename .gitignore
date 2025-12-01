@@ -144,6 +144,12 @@ ENV/
 env.bak/
 venv.bak/
 
+# Notebook
+*.ipynb
+
+# DuckDB
+*.duckdb
+
 # Spyder project settings
 .spyderproject
 .spyproject
